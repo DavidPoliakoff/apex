@@ -26,6 +26,7 @@
 #include <fstream>
 #include <memory>
 #include <sstream>
+#include <cmath>
 #include <math.h>
 #include "apex_options.hpp"
 #include "profile.hpp"
